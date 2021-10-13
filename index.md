@@ -1,0 +1,35 @@
+## About
+I'm a Software Developer who recently graduated with a degree in Computer Science from the [University of Alberta](https://www.cs.ualberta.ca/). My major programming interests include web development, functional programming, compilers, and AI. When not in front of a computer I enjoy baseball, basketball, hockey, camping, reading, movies, TV, and live comedy.
+
+## Work
+### Invidi Technologies Corporation - Software Development Intern, May 2014 - September 2015
+Worked with a small four person scrum team building an automated testing framework designed to ensure the Invidi Advatar platform performs correctly at scale. Focused on writing Ruby code to simulate a daily load of SOAP calls, collate response times, and write the results to a PostgreSQL backend.
+
+Helped develop a real-time data analysis and monitoring tool to diagnose the health of the Invidi Advatar platform. Built using Java, Apache Storm, and a SQL Server data warehouse. Primarily worked on SQL stored procedures and writing JUnit tests.
+
+Technologies used: Ruby, PostgreSQL, SQL Server, Java, Apache Storm, Jenkins CI, Gerrit Code Review, Git.
+
+### Government of Alberta - Summer Student, May 2013 - September 2013
+Working in the Government of Alberta datacenter, performed assigned maintenance tasks such as installing
+temperature probes, setting up data equipment racks, wiping hard drives, and disposing of old computers in
+accordance with government IT policies.
+
+Supported video conferencing infrastructure by troubleshooting technical issues with video conference users
+and installing AV equipment.
+
+## Projects
+### [wifiLock](https://github.com/KarlParkinson/wifiLock)
+A wifi controlled deadbolt lock. Built using a Particle Core, a servo motor, and lots and lots of duct tape (aka the greatest technology known to man).
+
+### [ScrumBoard](https://github.com/KarlParkinson/ScrumBoard)
+A dead simple online Kanban board I built to learn about modern web development tools and techniques. Built on a stack consisting of Rails, jQuery, and PostgreSQL. Deployed to heroku and is currently residing [here.](https://peaceful-reaches-8323.herokuapp.com/)
+
+### [sparkby] (https://github.com/KarlParkinson/sparkby)
+A Ruby gem which wraps the [Particle cloud API.](https://www.particle.io/) Allows users to write Ruby code to interact with their Particle devices. Makes HTTP requests, handles authentication, and returns JSON responses.
+
+### [Autonomous Robotic Vehicle] (https://karlparkinson.github.io/412Project/)
+An autonomous robotic vehicle built for the final project of CMPUT 412: Experimental Mobile Robotics at the University of Alberta. The vehicle is made out of supplies from LEGO Mindstorm kits. Visual servoing techniques are used to enable to the vehicle to autonomously navigate to a target, grasp the target, and then navigate to a goal location where the target object is placed.
+
+## Contact
+[Email](mailto:kparkins@ualberta.ca)  
+[LinkedIn](https://www.linkedin.com/profile/preview?vpa=pub&locale=en_US)
