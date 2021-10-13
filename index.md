@@ -3,15 +3,16 @@ I'm a Site Reliability Engineer at [Jobber](https://getjobber.com/) focused on b
 
 ## Work
 ### Jobber - Senior Site Reliability Engineer, June 2021 - Present
-Automation of operational tasks using ruby and bash. Examples include automatic rollout of new configuration variables to running services and nightly zero downtime application of operating system updates to instances in ECS clusters.
+Automation of operational tasks using Ruby and Bash. Examples include automatic rollout of new configuration variables to running services and nightly zero downtime application of operating system updates to instances in ECS clusters.
 
 Assist with new service rollouts by helping developer teams estimate capacity needs, build cloud infrastructure with Terraform, and write playbooks to minimize MTTR of future incidents after service rollout.
 
 Administration of large-scale containerized Ruby on Rails application and backing services in AWS ECS.
+
 Document operational tasks to enable repeatable actions and future automation.
 
 ### Jobber - Site Reliability Engineer, May 2019 - June 2021
-Migrated cloud infrastructure from Heroku to a cluster of docker containers in AWS ECS. Work included writing dockerfiles to move to a container runtime environment, building cloud infrastructure with Terraform, enabling blue/green deployments with CircleCI and bash, and ensuring a zero downtime switch of production traffic from Heroku to AWS.
+Migrated cloud infrastructure from Heroku to a cluster of docker containers in AWS ECS. Work included writing Dockerfiles to move to a container runtime environment, building cloud infrastructure with Terraform, enabling blue/green deployments with CircleCI and Bash, and ensuring a zero downtime switch of production traffic from Heroku to AWS.
 
 Participant in after-hours and daytime PagerDuty rotation. Respond to platform emergencies and alerts and debug production issues across all levels of the stack.
 
@@ -27,6 +28,7 @@ Worked on a payment system called Jobber Payments - with Stripe as payment proce
 Developed an online booking feature that allows customers to book appointments with home service providers. Written in Ruby on Rails and Javascript.
 
 Responsible for all areas of feature development including working with designers to implement user interfaces, developing backend code, creating  automated tests, writing documentation, and maintaining and upgrading features after release.
+
 ### Invidi Technologies Corporation - Software Development Intern, May 2014 - September 2015
 Worked with a small four person scrum team building an automated testing framework designed to ensure the Invidi Advatar platform performs correctly at scale. Focused on writing Ruby code to simulate a daily load of SOAP calls, collate response times, and write the results to a PostgreSQL backend.
 
